@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lewinjack
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cyber Security + Netowrks
 - 🌱 I’m currently learning EVERYTHING
 - 💞️ 
 - 📫 How to reach me Pigeon
