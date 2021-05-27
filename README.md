@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lewinjack
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning EVERYTHING
-- 💞️ I’m looking to collaborate on Saving the world
+- 💞️ 
 - 📫 How to reach me Pigeon
 
 <!---
